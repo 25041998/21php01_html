@@ -1,0 +1,45 @@
+h1{
+	color: red;
+	font-size: 30px
+}
+p{
+	color: blue;
+	font-size: 20px;
+}
+h2{
+	color: green;
+	font-size: 20px;
+
+}
+.SOYEULYLICH{
+	font-family: 'Mytestfont';
+	font-size: 50px;
+	height: 200px;
+	border: 1px solid green;
+	text-align: center;
+	line-height: 200px;
+}
+@font-face{
+	font-family: 'Mytestfont';
+	src: url("Cookie-Regular.ttf")
+}
+.my-profie{
+	text-transform: lowercase;
+}
+.demo2{
+	color: red;
+	font-size: 30px;
+	text-decoration: line-through;
+}
+.demo3{
+	color: green;
+	font-size: 50px;
+	text-transform: uppercase;
+	text-shadow: 5px 4px 3px yellow;
+}
+.demo{
+	height: 200px;
+	width: 300px;
+	border: 1px solid green;
+	padding: 2px;
+}
