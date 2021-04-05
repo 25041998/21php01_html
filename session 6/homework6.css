@@ -1,0 +1,77 @@
+.header{
+		font-family:'Mytestfont';
+	}
+	@font-face{
+	font-family: 'Mytestfont';
+	src: url("Cookie-Regular.ttf")
+	}
+	.footer{
+		float: right;
+	}
+	.title-header{
+		float: right;
+
+	}
+	.logo{
+		float: left;
+	}
+	{
+		color: green;
+	}
+	.section-left{
+		float: left;
+	}
+	.section-right{
+		float: right;
+	}
+	.re-demo3{
+		margin-right: 150px;
+	}
+	.b1{
+		color: green;
+	}
+	p{
+		font-size: black;
+	}
+	h2{
+		font-size: normal;
+	}
+}
+	.header{
+		font-family:'Mytestfont';
+	}
+	@font-face{
+	font-family: 'Mytestfont';
+	src: url("Cookie-Regular.ttf")
+	}
+	.footer{
+		float: right;
+	}
+	.title-header{
+		float: right;
+
+	}
+	.logo{
+		float: left;
+	}
+	{
+		color: green;
+	}
+	.section-left{
+		float: left;
+	}
+	.section-right{
+		float: right;
+	}
+	.re-demo3{
+		margin-right: 150px;
+	}
+	.b1{
+		color: green;
+	}
+	p{
+		font-size: black;
+	}
+	h2{
+		font-size: normal;
+	}

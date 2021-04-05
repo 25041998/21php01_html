@@ -1,0 +1,21 @@
+.content{
+	width: 100%;
+	border: 1px solid black;
+}
+h1{
+	border-style: solid;
+	color: black;
+	clear: left;
+	text-align: center;
+}
+div p {
+		list-style-type: none;
+	}
+	nav p a {
+		text-decoration: none;
+	}
+	article {
+		margin-left: 170px;
+		border-left: 50px solid black;
+		overflow: hidden;
+	}

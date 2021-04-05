@@ -1,0 +1,23 @@
+.content1{
+	width: 800px;
+	height: 400px;
+	border: 3px solid black;
+	margin: auto;
+}
+.d1{
+	height: 180px;
+	width: 500px;
+	border: 1px dotted black;
+	color: black;
+	font: bold;
+	margin: auto;
+	text-align: center;
+	font-family: sans-serif;
+}
+.d2{
+	height: 180px;
+	width: 500px;
+	border: 1px dotted black;
+	margin: auto;
+	text-align: center;
+}

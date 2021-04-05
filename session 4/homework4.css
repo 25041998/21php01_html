@@ -11,14 +11,11 @@
 .content1{
 	border-style: solid;
 	border-color: black;
-	margin: auto;
+	margin-right: 150px;
 	float: right;
 }
 .photo{
 	float: left;
-}
-.info; .love{
-	float: right;
 }
 .infolovephoto{
 	height: 100px;
@@ -55,7 +52,7 @@
 	float: left;
 }
 .demo5{
-	float: right;
+	margin-right: 150px;
 }
 .content2{
 	float: left;

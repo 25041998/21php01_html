@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>slider</title>
+	<link rel="stylesheet" href="homework8slider.css">
+</head>
+<body>
+	<script language="javascript" src="homework8slider.js"></script>
+	<div class="slideshow-container">
+		<div class="mySlider fade">
+			<img src="slider1.jpg" style="width:100%" />
+			<div class="text">Caption Text</div>
+		</div>
+		<div class="mySlider fade">
+			<img src="2.jpg" style="width:100%" />
+			<div class="text">Caption Two</div>
+		</div>
+		<div class="mySlider fade">
+			<img src="3.jpg" style="width:100%" />
+			<div class="text">Caption Three</div>
+		</div>
+		<a class="prev" onclick="plusSlider(-1)">&#10094;</a>
+		<a class="next" onclick="plusSlider(1)">&#10095;</a>
+	</div>
+	<div style="text-align:center">
+		<span class="dot" onclick="currentSlider(1)"></span>
+		<span class="dot" onclick="currentSlider(2)"></span>
+		<span class="dot" onclick="currentSlider(3)"></span>
+	</div>
+</body>
+</html>

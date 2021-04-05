@@ -1,0 +1,42 @@
+.container{
+    height: 1280px;
+    width: 100%;
+    border: 1px solid black;
+}
+.left, .left1{
+    float: left;
+    width: 30%;
+    background: red;
+    text-align: center;
+    clear: left;
+}
+.right, .right1{
+    float: right;
+    width: 70%;
+    text-align: center;
+    background: blue;
+}
+.slider, .footer1, .footer2{
+    text-align: center;
+    background: yellow;
+    width: 100%;
+}
+@media only screen and (max-width: 768px){
+    .left, .right{
+        float: none;
+        width: 100%;
+    }
+    .left1, .footer1{
+        float: left;
+        width: 50%;
+
+    }
+    .right1, .footer2{
+        float: right;
+        width: 50%;
+
+    }
+    @media only screen and (max-width: 480px){
+    .left, .right{
+        float: none;
+        width: 100%;

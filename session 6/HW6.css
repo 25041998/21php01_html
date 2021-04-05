@@ -1,0 +1,35 @@
+.p1{
+	font-size: 30px;
+	color: green;
+}
+.p2{
+	font-size: 35px;
+}
+.p{
+	text-align: center;
+	color: #FFCC00;
+			
+}
+.p3{
+	font-size: 30px;
+}
+.p4{
+	text-indent: 30px;
+}
+.p5{
+	text-align: right;
+}
+body{
+	margin: 2 auto;
+	font-size: 15px;
+}
+.green{
+	color: #00CC00;	
+}
+img{
+	float: left;
+}
+.content{
+	border: 1px solid black;
+	background-color: white;
+}
